@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/dzdyzl4r5/image/upload/v1686382414/flucent_developer_banner_slbgbj.png">
+<img src="https://res.cloudinary.com/dzdyzl4r5/image/upload/v1686382414/flucent_developer_banner_slbgbj.png" alt="flucent developer banner">
 
 ## Hi there, I'm Folarin 👋
 
@@ -7,12 +7,20 @@ My name is folarin ogungbemi. I am a fullstack software developer who enjoys the
 [![Twitter Badge](https://img.shields.io/badge/-@ftogungbemi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ftogungbemi)](https://twitter.com/ftogungbemi)  [![Linkedin Badge](https://img.shields.io/badge/-ftogungbemi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/folarin-ogungbemi/) [![Mail Badge](https://img.shields.io/badge/-ftogungbemi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ftogungbemi@gmail.com)
 
 ---
-<a href="https://github.com/folarin-ogungbemi/github-readme-stats">
-  <img align="left" alt="stats" src="https://github-readme-stats.vercel.app/api?username=folarin-ogungbemi&show_icons=true"/>
-</a>
-<a href="https://github.com/folarin-ogungbemi/convoychat">
-  <img align="left" alt="language stat" src="https://github-readme-stats.vercel.app/api/top-langs/?username=folarin-ogungbemi&hide=Dockerfile&layout=compact"/>
-</a>
+
+<img align="left" alt="stats" src="https://github-readme-stats.vercel.app/api?username=folarin-ogungbemi&show_icons=true"/>
+<img align="center" alt="language stat" src="https://github-readme-stats.vercel.app/api/top-langs/?username=folarin-ogungbemi&hide=Dockerfile&layout=compact"/>
+
+<br /><br /><br />
+<!-- Current -->
+- 🌱 I’m currently learning analysing and visualizing data with Python and PowerBI
+
+<br />
+<!-- Tecnologies -->
+
+### Top Technologies
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc)](#) [![Django Badge](https://img.shields.io/badge/-Django-e535ab?style=for-the-badge&labelColor=black&logo=django&logoColor=e535ab)](#)
 
 <!--
 **folarin-ogungbemi/folarin-ogungbemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
