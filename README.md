@@ -19,7 +19,7 @@ My name is folarin ogungbemi, a fullstack software developer who enjoys the intr
 <!-- Tecnologies -->
 
 ### Top Technologies
-[![CSS Badge](https://img.shields.io/badge/-CSS-61DBFB?style=for-the-badge&labelColor=black&logo=css&logoColor=61DBFB)](#)
+[![CSS Badge](https://img.shields.io/badge/-CSS-0000ff?style=for-the-badge&labelColor=black&logo=css&logoColor=0000ff)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc)](#) [![Django Badge](https://img.shields.io/badge/-Django-e535ab?style=for-the-badge&labelColor=black&logo=django&logoColor=e535ab)](#)
 
 <!--
