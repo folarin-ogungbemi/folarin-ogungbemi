@@ -1,5 +1,6 @@
-### Hi there 👋
+<img src="https://res.cloudinary.com/dzdyzl4r5/image/upload/v1686382414/flucent_developer_banner_slbgbj.png">
 
+### Hi there, I'm Folarin 👋
 <!--
 **folarin-ogungbemi/folarin-ogungbemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
