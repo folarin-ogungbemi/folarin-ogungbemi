@@ -8,8 +8,8 @@ My name is folarin ogungbemi, a fullstack software developer who enjoys the intr
 
 ---
 
-<img align="left" alt="stats" src="https://github-readme-stats.vercel.app/api?username=folarin-ogungbemi&show_icons=true"/>
-<img align="center" alt="language stat" src="https://github-readme-stats.vercel.app/api/top-langs/?username=folarin-ogungbemi&hide=Dockerfile&layout=compact"/>
+<img align="left" alt="stats" src="https://github-readme-stats.vercel.app/api?username=folarin-ogungbemi&show_icons=true&theme=buefy"/>
+<img align="center" alt="language stat" src="https://github-readme-stats.vercel.app/api/top-langs/?username=folarin-ogungbemi&hide=Dockerfile&layout=compact&theme=buefy"/>
 
 <br /><br /><br />
 <!-- Current -->
