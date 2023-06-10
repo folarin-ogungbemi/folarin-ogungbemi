@@ -13,7 +13,8 @@ My name is folarin ogungbemi, a fullstack software developer who enjoys the intr
 
 <br /><br /><br />
 <!-- Current -->
-- 🌱 I’m currently analysing and visualizing data with Python and PowerBI
+#### 🌱 Data Analyst
+Currently analysing and visualizing data with mySQL, Python and PowerBI
 
 <br />
 <!-- Tecnologies -->
