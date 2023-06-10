@@ -1,6 +1,13 @@
 <img src="https://res.cloudinary.com/dzdyzl4r5/image/upload/v1686382414/flucent_developer_banner_slbgbj.png">
 
-### Hi there, I'm Folarin 👋
+## Hi there, I'm Folarin 👋
+
+My name is folarin ogungbemi. I am a fullstack software developer who enjoys the intricacies of frontend development when i am not build backend aplications with django.
+
+[![Twitter Badge](https://img.shields.io/badge/-@ftogungbemi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ftogungbemi)](https://twitter.com/ftogungbemi)  [![Linkedin Badge](https://img.shields.io/badge/-ftogungbemi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/folarin-ogungbemi/) [![Mail Badge](https://img.shields.io/badge/-ftogungbemi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ftogungbemi@gmail.com)
+
+---
+
 <!--
 **folarin-ogungbemi/folarin-ogungbemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
