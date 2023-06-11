@@ -7,10 +7,7 @@ I'm a fullstack software developer who enjoys dealing with the intricacies in fr
 [![Twitter Badge](https://img.shields.io/badge/-@ftogungbemi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ftogungbemi)](https://twitter.com/ftogungbemi)  [![Linkedin Badge](https://img.shields.io/badge/-ftogungbemi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/folarin-ogungbemi/) [![Mail Badge](https://img.shields.io/badge/-ftogungbemi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ftogungbemi@gmail.com)
 
 ---
-
-<img align="left" alt="stats" src="https://github-readme-stats.vercel.app/api?username=folarin-ogungbemi&show_icons=true&theme=buefy"/>
-<img align="center" alt="language stat" src="https://github-readme-stats.vercel.app/api/top-langs/?username=folarin-ogungbemi&hide=Dockerfile&layout=compact&theme=buefy"/>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=folarin-ogungbemi&layout=compact&theme=buefy&card_width=400&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <br /><br /><br />
 <!-- Current -->
 #### 🌱 Data Analyst
