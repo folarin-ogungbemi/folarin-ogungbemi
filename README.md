@@ -19,7 +19,11 @@ I am currently analysing and visualizing data with MySQL, Python and PowerBI
 ### Top Technologies
 
 <a href="https://skillicons.dev">
-    <img height="35" src="https://skillicons.dev/icons?i=js,react,redux,html,css,bootstrap,tailwind,figma,ai&theme=light" />
+    <img height="35" src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma,ai&theme=light" />
+</a>
+<br>
+<a href="https://skillicons.dev">
+    <img height="35" src="https://skillicons.dev/icons?i=js,ts,react,redux,vite&theme=light" />
 </a>
 <br>
 <a href="https://skillicons.dev">
