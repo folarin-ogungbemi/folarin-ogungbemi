@@ -35,7 +35,7 @@ I am currently analysing and visualizing data with MySQL, Python and PowerBI
 </a>
 <br>
 <a href="https://skillicons.dev">
-    <img height="35" src="https://skillicons.dev/icons?i=c,linux,vscode" />
+    <img height="35" src="https://skillicons.dev/icons?i=docker,c,linux,vscode" />
 </a>
 
 [![powerBI](https://img.shields.io/badge/powerBI-yellow?style=for-the-badge&labelColor=black&logo=power&logoColor=61DBFB)](#)
