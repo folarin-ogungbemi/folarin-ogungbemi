@@ -10,6 +10,8 @@ I'm a full-stack software developer who enjoys dealing with the intricacies of f
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=folarin-ogungbemi&layout=compact&theme=buefy&card_width=400&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <br /><br /><br />
 <!-- Current -->
+#### 🔭 Fullstack Application (E-commerce)
+Building an E-commerce Store with React-Typescript on frontend and Django REST framework(DRF) as Backend. 
 #### 🌱 Data Analyst
 I am currently analysing and visualizing data with MySQL, Python and PowerBI
 
